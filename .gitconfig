@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	name =muhamadnutzakir
+	email =zakirkece2@gmail.com
+[credential]
+	useHttpPath = true
